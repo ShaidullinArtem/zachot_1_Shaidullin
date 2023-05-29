@@ -1,0 +1,11 @@
+C:\Users\st325l02\Desktop\zachet_1_Shaidullin\bin\Debug\zachet_1_Shaidullin.exe.config
+C:\Users\st325l02\Desktop\zachet_1_Shaidullin\bin\Debug\zachet_1_Shaidullin.exe
+C:\Users\st325l02\Desktop\zachet_1_Shaidullin\bin\Debug\zachet_1_Shaidullin.pdb
+C:\Users\st325l02\Desktop\zachet_1_Shaidullin\obj\Debug\zachet_1_Shaidullin.csproj.AssemblyReference.cache
+C:\Users\st325l02\Desktop\zachet_1_Shaidullin\obj\Debug\zachet_1_Shaidullin.csproj.SuggestedBindingRedirects.cache
+C:\Users\st325l02\Desktop\zachet_1_Shaidullin\obj\Debug\zachet_1_Shaidullin.Form1.resources
+C:\Users\st325l02\Desktop\zachet_1_Shaidullin\obj\Debug\zachet_1_Shaidullin.Properties.Resources.resources
+C:\Users\st325l02\Desktop\zachet_1_Shaidullin\obj\Debug\zachet_1_Shaidullin.csproj.GenerateResource.cache
+C:\Users\st325l02\Desktop\zachet_1_Shaidullin\obj\Debug\zachet_1_Shaidullin.csproj.CoreCompileInputs.cache
+C:\Users\st325l02\Desktop\zachet_1_Shaidullin\obj\Debug\zachet_1_Shaidullin.exe
+C:\Users\st325l02\Desktop\zachet_1_Shaidullin\obj\Debug\zachet_1_Shaidullin.pdb
